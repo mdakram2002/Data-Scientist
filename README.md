@@ -15,12 +15,12 @@ Welcome to my Data Science journey repository! This space is dedicated to docume
 
 Here's a comprehensive syllabus covering the key topics in Data Science:
 
-1. **Introduction to Data Science**
+## 1. **Introduction to Data Science**
 
    - What is Data Science?
    - Importance and applications.
 
-2. **Mathematics**
+## 2. **Mathematics**
 
 Math skills are very important as they help us understand various
 machine-learning algorithms that play an important role in Data
@@ -38,12 +38,12 @@ Science.
   - Density Estimation
   - Classification
 
-3.  **Probability**
+## 3.  **Probability**
 
 Probability is also significant to statistics, and it is considered a
 prerequisite for mastering machine learning. - Introduction to Probability - 1D Random Variable - The function of One Random Variable - Joint Probability Distribution - Discrete Distribution - Binomial (Python | R) - Bernoulli - Geometric etc - Continuous Distribution - Uniform - Exponential - Gamma - Normal Distribution (Python | R)
 
-4.  **Statistics**
+## 4.  **Statistics**
 
 Understanding Statistics is very significant as this is a part of Data
 analysis.
@@ -70,7 +70,7 @@ analysis.
 - Statistical Quality Control
 - Basics of Graphs
 
-5. **Python for Data Science**
+## 5. **Python for Data Science**
 
    - Basics Of Python
      - List
@@ -83,7 +83,7 @@ analysis.
      - Matplotlib/Seaborn, etc.
    - Data structures and libraries (NumPy, Pandas)
 
-6. **DataBase**
+## 6. **DataBase**
    - SQL
    - MongoDB
 7. **Other**
@@ -94,12 +94,12 @@ analysis.
    - Linux
    - Git
 
-8. **Exploratory Data Analysis (EDA)**
+## 8. **Exploratory Data Analysis (EDA)**
 
    - Descriptive statistics
    - Data visualization (Matplotlib, Seaborn)
 
-9. **Machine Learning**
+## 9. **Machine Learning**
 
    - Introduction:
    - How Model Works
@@ -118,7 +118,7 @@ analysis.
    - XGBoost (Python | R)
    - Data Leakage
 
-10. **Deep Learning**
+## 10. **Deep Learning**
 
 Deep Learning uses TensorFlow and networks for structured data.
 
@@ -135,14 +135,14 @@ Deep Learning uses TensorFlow and networks for structured data.
 - Dropout Batch Normalization
 - Binary Classification
 
-11. **Natural Language Processing (NLP)**
+## 11. **Natural Language Processing (NLP)**
 
 In NLP distinguish yourself by learning to work with text data.
 
 - Text Classification
 - Word Vectors
 
-12. **Data Visualization Tools**
+## 12. **Data Visualization Tools**
 
 Make great data visualizations. A great way to see the power of coding!
 
@@ -151,7 +151,7 @@ Make great data visualizations. A great way to see the power of coding!
 - Tableau
 - Power BI
 
-13. **Projects and Case Studies**
+## 13. **Projects and Case Studies**
 
 - Hands-on projects
 - Real-world case studies

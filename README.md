@@ -41,7 +41,21 @@ Science.
 ## 3.  **Probability**
 
 Probability is also significant to statistics, and it is considered a
-prerequisite for mastering machine learning. - Introduction to Probability - 1D Random Variable - The function of One Random Variable - Joint Probability Distribution - Discrete Distribution - Binomial (Python | R) - Bernoulli - Geometric etc - Continuous Distribution - Uniform - Exponential - Gamma - Normal Distribution (Python | R)
+prerequisite for mastering machine learning.
+
+- Introduction to Probability
+- 1D Random Variable
+- The function of One Random Variable
+- Joint Probability Distribution
+- Discrete Distribution
+   - Binomial (Python | R) 
+   - Bernoulli 
+   - Geometric etc 
+- Continuous Distribution 
+   - Uniform
+   - Exponential
+   - Gamma
+   - Normal Distribution (Python | R)
 
 ## 4.  **Statistics**
 

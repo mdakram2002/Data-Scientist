@@ -213,17 +213,17 @@ Here are my short-term and long-term goals in Data Science:
 - Contribute to open-source Data Science projects.
 - Secure a Data Science role in a leading tech company.
 
+---
+
+
 ## 06 - About Me
 
 Hi! I'm Md Akram, and this repository chronicles my journey into the world of Data Science. Here, I'll be sharing projects, insights, and resources as I learn and grow in this field.
-
----
-
-Feel free to explore the repository, and don't hesitate to reach out if you have any questions or suggestions!
+Feel free to explore the repository, and don't hesitate to reach out if you have any questions or suggestions! Connect with me.
 
 Happy Learning! 😊
 
-## - Contact me:
+## 07 - Contact me:
 - Name: Md Akram
 - Email: mdakram12022002@gmail.com
 - LinkedIn: https://www.linkedin.com/in/mdakram2002

@@ -55,7 +55,7 @@ prerequisite for mastering machine learning.
    - Uniform
    - Exponential
    - Gamma
-   - Normal Distribution (Python | R)
+- Normal Distribution (Python | R)
 
 ## 4.  **Statistics**
 

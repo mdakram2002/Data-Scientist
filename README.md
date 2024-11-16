@@ -2,16 +2,16 @@
 
 Welcome to my Data Science journey repository! This space is dedicated to documenting my progress, projects, and learnings in the fascinating field of Data Science.
 
-## 01 - Table of Contents
+## 0A - Table of Contents
 
-1. [Table of Contents](#01---table-of-contents)
-2. [Syllabus of Data Science](#02---syllabus-of-data-science)
-3. [Projects](#03---projects)
-4. [Learning Resources](#04---learning-resources)
-5. [Goals](#05---goals)
-6. [About Me](#06---about-me)
+A. [Table of Contents](#0A---table-of-contents)
+B. [Syllabus of Data Science](#0B---syllabus-of-data-science)
+C. [Projects](#0C---projects)
+D. [Learning Resources](#0D---learning-resources)
+E. [Goals](#0E---goals)
+F. [About Me](#0F---about-me)
 
-## 02 - Syllabus of Data Science
+## 0B - Syllabus of Data Science
 
 Here's a comprehensive syllabus covering the key topics in Data Science:
 
@@ -170,7 +170,7 @@ Make great data visualizations. A great way to see the power of coding!
 - Hands-on projects
 - Real-world case studies
 
-## 03 - Projects
+## 0C - Projects
 
 Here are some of the projects I'll be working on and documenting in this repository:
 
@@ -188,7 +188,7 @@ Here are some of the projects I'll be working on and documenting in this reposit
    - Description: Visualizing data to uncover patterns and insights.
    - Tools: Python, Seaborn, Plotly.
 
-## 04 - Learning Resources
+## 0D - Learning Resources
 
 Here are some of the resources I'm using to learn Data Science:
 
@@ -213,7 +213,7 @@ Here are some of the resources I'm using to learn Data Science:
 - **Also Buy Pad Course**:
    - As you wish.
 
-## 05 - Goals
+## 0E - Goals
 Here are my short-term and long-term goals in Data Science:
 
 ### Short-Term Goals
@@ -230,7 +230,7 @@ Here are my short-term and long-term goals in Data Science:
 ---
 
 
-## 06 - About Me
+## 0F - About Me
 
 Hi! I'm Md Akram, and this repository chronicles my journey into the world of Data Science. Here, I'll be sharing projects, insights, and resources as I learn and grow in this field.
 Feel free to explore the repository, and don't hesitate to reach out if you have any questions or suggestions! Connect with me.

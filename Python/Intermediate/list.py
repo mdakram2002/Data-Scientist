@@ -1,3 +1,11 @@
+# What is a List?
+'''A list is a mutable, ordered collection of elements in Python. Lists can store elements of
+various data types, including integers, strings, and even other lists. They are one of the most
+commonly used data structures due to their flexibility and ease of use.'''
+
+# Creating a List
+'''You can create a list by placing a comma-separated sequence of elements within square brackets []:'''
+
 # List in Python:-
 # list is a type of constainer to store a any data type
 # for Example:

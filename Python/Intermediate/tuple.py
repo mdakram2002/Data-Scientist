@@ -38,7 +38,7 @@ a, b, c = tple
 
 # Immutability------>
 ''' Tuples are immutable, meaning their elements cannot be changed once assigned. '''
-tple[0] = 10 # TypeError: 'tuple' object does not support item assignment
+# tple[0] = 10 # TypeError: 'tuple' object does not support item assignment
 print(tple)
 
 

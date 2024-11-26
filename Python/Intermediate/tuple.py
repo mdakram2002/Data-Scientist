@@ -39,7 +39,7 @@ a, b, c = tple
 # Immutability------>
 ''' Tuples are immutable, meaning their elements cannot be changed once assigned. '''
 # tple[0] = 10 # TypeError: 'tuple' object does not support item assignment
-print(tple)
+# print(tple)
 
 
 ## Use Cases of Tuples
@@ -53,3 +53,13 @@ print(tple)
 '''Tuples can be used as keys in dictionaries because they are immutable.'''
 
 # Function returning multiple values
+
+
+d = (12, 334, 5, "Akram")
+# a[2] = "Akku"
+
+l = [12, 3, 4, 5]
+print(sum(l))
+
+n = d.count(12)
+print(n)

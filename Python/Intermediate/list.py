@@ -37,19 +37,19 @@ friends.append("Aman")
 # accending/increasing order of list data.
 list1 = [11, 33, 22, 44, 55]
 list1.sort()
-# print(list1)
+print("Sort method: ", list1)
 
 # reverse method in Python:
 # reverse the data of list's list1.
 list1.reverse()
-print(list1)
+print("Reverse method: ", list1)
 
 # insert method in Python:
 # insert at the index[4] of list's list1.
 list1.insert(4, "Aman")
-print(list1)
+print("Insert method: ", list1)
 
 # pop/remove method in Python:
 # delete/remove at the index[4] of list's list1.
 list1.pop(3)
-print(list1)
+print("Pop method: ", list1)

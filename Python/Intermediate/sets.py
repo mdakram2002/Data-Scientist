@@ -30,17 +30,17 @@ print("SET S2: ",s2)
 
 #----------------------------------------------------( SET METHODS )------------------------------------------------------------#
 # union of set methods
-# print("UNION: ", s1.union(s2))
+print("UNION: ", s1.union(s2))
 
 # intersection of set method
-# print("INTERSECTION: ",s1.intersection(s2))
+print("INTERSECTION: ",s1.intersection(s2))
 
 # Using isSupper set method
-# print("isSupper: ",s1.isSupperset({1, 3}))
+print("isSupper: ",s1.isSupperset({1, 3}))
 
 
 # Using pop method
-# print(s1.pop())
+print(s1.pop())
 
 s1.clear()
 # print("Clear S1: ",s1)
@@ -51,30 +51,30 @@ words = {
     "apple": "seb",
     "cat": "billi"
 }
-# word = input("Enter the word you want meaning of: ")
-# print(words[word])
+word = input("Enter the word you want meaning of: ")
+print(words[word])
 
-# s = set()
+s = set()
 
-# n = input("Enter the number you want to print: ")
-# s.add(int(n))
-# n = input("Enter the number you want to print: ")
-# s.add(int(n))
-# n = input("Enter the number you want to print: ")
-# s.add(int(n))
-# n = input("Enter the number you want to print: ")
-# s.add(int(n))
-# n = input("Enter the number you want to print: ")
-# s.add(int(n))
-# n = input("Enter the number you want to print: ")
-# s.add(int(n))
-# n = input("Enter the number you want to print: ")
-# s.add(int(n))
-# n = input("Enter the number you want to print: ")
-# s.add(int(n))
-# n = input("Enter the number you want to print: ")
-# s.add(int(n))
-# print("HERE IS THE SET: ", s)
+n = input("Enter the number you want to print: ")
+s.add(int(n))
+n = input("Enter the number you want to print: ")
+s.add(int(n))
+n = input("Enter the number you want to print: ")
+s.add(int(n))
+n = input("Enter the number you want to print: ")
+s.add(int(n))
+n = input("Enter the number you want to print: ")
+s.add(int(n))
+n = input("Enter the number you want to print: ")
+s.add(int(n))
+n = input("Enter the number you want to print: ")
+s.add(int(n))
+n = input("Enter the number you want to print: ")
+s.add(int(n))
+n = input("Enter the number you want to print: ")
+s.add(int(n))
+print("HERE IS THE SET: ", s)
 
 
 s = set()
@@ -82,39 +82,39 @@ s.add(20)
 s.add(20.0)
 s.add("20") # length of a after these operations
 
-# print("HERE IS THE SET: ", s)
+print("HERE IS THE SET: ", s)
 
-# dic = {}
-# print("HERE IS", dic)
-# print(type(dic)) # <class 'dict'>
+dic = {}
+print("HERE IS", dic)
+print(type(dic)) # <class 'dict'>
 
-# name = input("Enter the name of you're friend name:")
-# lang = input("Enter the language name:")
-# dic.update({name: lang})
+name = input("Enter the name of you're friend name:")
+lang = input("Enter the language name:")
+dic.update({name: lang})
 
-# name = input("Enter the name of you're friend name:")
-# lang = input("Enter the language name:")
-# dic.update({name: lang})
+name = input("Enter the name of you're friend name:")
+lang = input("Enter the language name:")
+dic.update({name: lang})
 
-# name = input("Enter the name of you're friend name:")
-# lang = input("Enter the language name:")
-# dic.update({name: lang})
+name = input("Enter the name of you're friend name:")
+lang = input("Enter the language name:")
+dic.update({name: lang})
 
-# name = input("Enter the name of you're friend name:")
-# lang = input("Enter the language name:")
-# dic.update({name: lang})
+name = input("Enter the name of you're friend name:")
+lang = input("Enter the language name:")
+dic.update({name: lang})
 
-# name = input("Enter the name of you're friend name:")
-# lang = input("Enter the language name:")
-# dic.update({name: lang})
+name = input("Enter the name of you're friend name:")
+lang = input("Enter the language name:")
+dic.update({name: lang})
 
-# name = input("Enter the name of you're friend name:")
-# lang = input("Enter the language name:")
-# dic.update({name: lang})
-# print("HERE IS THE DICT: ",dic)
+name = input("Enter the name of you're friend name:")
+lang = input("Enter the language name:")
+dic.update({name: lang})
+print("HERE IS THE DICT: ",dic)
 
 
 
 s = {2, 4, 5, 6, [2, 4,], "Akku"}
 print("HERE IS THE DICT: ",s)
-s[2][]
+

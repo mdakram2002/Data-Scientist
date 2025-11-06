@@ -238,6 +238,60 @@ a  = "AKRAMSHAIKH  FROM BIHAR"
 #         spchr +=1
 
 # print(f"Your digits are are: {dig}\nyour alphabates are: {char}\nyour special charactor are: {spchr}")
+# print(dir(str))
 
 
-print(dir(str))
+# ----------------------------------------WHILE LOOP-----------------------------------------------------
+
+
+# a = 1
+# while a <= 30:
+#     print(a)
+#     a = a + 1
+
+# a = 2560
+
+# while a > 0:
+#     print(a % 10)
+#     a = a // 10
+
+
+
+# PALINDROMIC NUMBER
+# a = int(input("tell your number: "))
+# copy = a
+# rev = 0
+
+# while a > 0:
+#     rev = rev * 10 + a % 10
+#     a = a // 10
+
+# if copy == rev:
+#     print("pallindromic number")
+
+# else:
+#     print("Not a pallindromic number")
+
+
+
+# GAME USING WHILE LOOP
+import random
+
+num = random.randint(1, 10)
+tries = 0
+while True:
+    guess = int(input("Please guess you number form 1 to 10: "))
+
+    if num == guess:
+        tries +=1
+        print(f"you are right you guessed the number is {tries} tries: ")
+        break
+
+    elif num < guess:
+        print("go a little lower")
+
+    elif num > guess:
+        print("go a little higher")
+
+    else:
+        print("you are wrong")
